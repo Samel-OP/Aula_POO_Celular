@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\ref\CelularMetodo.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\bin\Debug\net5.0\CelularMetodo.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\ref\CelularMetodo.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\POO\Atividades\CelularMetodo\obj\Debug\net5.0\CelularMetodo.genruntimeconfig.cache
